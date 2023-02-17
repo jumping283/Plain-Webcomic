@@ -17,7 +17,7 @@ title: <7
 tab_title: <7 #This text shows up on the browser tab
 email:
 description: some random comic about absolutely nothing
-url: "https://and7.onrender.com/" # the base hostname & protocol for your site
+url: "https://and7.onrender.com" # the base hostname & protocol for your site
 
 # Comic Social Media
 # twitter_username: http://twitter.com/peahat
